@@ -1,5 +1,28 @@
-h1{
-    color: red;
+#need {
+    color: #023e8a;
+    font-size: 16px;
+    text-align: center;
+}
+h1 {
+    color: #023e8a;
     font-size: 20px;
     text-align: center;
+}
+p {
+    color: #03045e;
+    font-size: 15px;
+    text-align: center;
+}
+button {
+    background-color: #03045e;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
+body {
+    background-color: #48cae4;
 }
