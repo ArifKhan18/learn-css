@@ -1,38 +1,35 @@
-#need {
-    color: #023e8a;
-    font-size: 16px;
+.box {
+    background-color: lightblue;
+    color: white;
+    padding: 20px;
     text-align: center;
+
 }
 
 h1 {
-    color: #023e8a;
-    font-size: 20px;
-    text-align: center;
+    text-decoration: underline solid;
+    text-decoration-thickness: auto;
 }
 
-p {
-    color: #03045e;
-    font-size: 15px;
-    text-align: center;
+#ar {
+    font-weight: normal;
+    text-decoration: underline wavy;
+    text-decoration-thickness: auto;
 }
 
-.upper_section {
-    color: #1d242c;
-    font-size: 18px;
-    text-align: left;
-}
-
-button {
-    background-color: #03045e;
+a {
     color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    display: block;
-    margin: 0;
+    text-decoration: none;
 }
 
-body {
-    background-color: #48cae4;
+/* p{
+    font-size: 18px;
+    text-align: center;
+} */
+button {
+    background-color: pink;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: dotted underline;
 }
